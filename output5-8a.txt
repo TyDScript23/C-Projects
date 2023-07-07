@@ -1,0 +1,10 @@
+Rectangle's length = 20
+Rectangle's width = 10
+Rectangle's area = 200
+Rectangle's perimeter = 60
+
+Cube's length = 10
+Cube's width = 5
+Cube's depth = 3
+Cube's area = 300
+Cube's perimeter = 72

@@ -1,0 +1,49 @@
+How many numbers would you like to add?
+5
+
+19
+63
+74
+127
+145
+
+Sum: 428
+Mean: 85.600
+Median: 74
+Range: 126
+
+-----------------------------------------------------
+
+How many numbers would you like to add?
+25
+
+14
+15
+20
+21
+24
+27
+30
+31
+31
+33
+51
+55
+57
+66
+77
+84
+99
+107
+111
+125
+131
+140
+140
+142
+145
+
+Sum: 1776
+Mean: 71.040
+Median: 57
+Range: 131

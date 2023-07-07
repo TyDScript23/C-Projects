@@ -1,0 +1,18 @@
+Enter movie name (-1 to end):  Back to the Future
+Back to the Future inserted
+Enter movie name (-1 to end):  Jurassic Park
+Jurassic Park inserted
+Enter movie name (-1 to end):  Groundhogs Day
+Groundhogs Day inserted
+Enter movie name (-1 to end):  Jurassic Park
+Jurassic Park already in set
+Enter movie name (-1 to end):  Blues Brothers
+Blues Brothers inserted
+Enter movie name (-1 to end):  -1
+Enter 1 to insert, 2 to delete:  2
+Enter movie name to delete:  Back to the Future
+Back to the Future will be deleted...
+Number of movies in set is 3
+Blues Brothers
+Groundhogs Day
+Jurassic Park

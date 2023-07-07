@@ -1,0 +1,23 @@
+Run 1:
+
+Would you like to enter integers, floats, or characters? (1 = integers, 2 = floats, 3 = characters)
+1
+Enter three integers here:
+5 10 15
+15 is the largest
+
+Run 2:
+
+Would you like to enter integers, floats, or characters? (1 = integers, 2 = floats, 3 = characters)
+2
+Enter three floats here:
+5.4 10.6 15.8
+15.8 is the largest
+
+Run 3:
+
+Would you like to enter integers, floats, or characters? (1 = integers, 2 = floats, 3 = characters)
+3
+Enter three characters here:
+R g B
+g is the largest

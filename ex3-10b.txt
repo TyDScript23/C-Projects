@@ -1,0 +1,13 @@
+Input word/phrase number 1 here:
+YANKEES ARE GREAT
+Input word/phrase number 2 here:
+The Red Socks need better scores
+Input word/phrase number 3 here:
+What a nice day for baseball
+
+Here are the words/phrases that start with 'yan' or end in 'es':
+YANKEES ARE GREAT
+The Red Socks need better scores
+
+C:\Users\td048\Documents\C++ Projects\Chapter3Exercises\x64\Debug\Chapter3Exercises.exe (process 22504) exited with code -1073741819.
+Press any key to close this window . . .

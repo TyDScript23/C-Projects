@@ -1,0 +1,13 @@
+Enter your first integer here:
+9
+Enter your second integer here:
+11
+
+Printing by pointer...
+The first number tripled is: 27
+
+Printing by reference...
+The second number tripled is: 33
+
+C:\Users\td048\Documents\C++ Projects\Chapter4Exercises\x64\Debug\Chapter4Exercises.exe (process 24052) exited with code 0.
+Press any key to close this window . . .

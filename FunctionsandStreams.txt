@@ -1,0 +1,237 @@
+Would you like to enter a number? (y or n)
+y
+
+Which function do you want to apply to your number?
+
+1 = Cosine
+2 = Logarithms
+3 = Decimal and Hex Conversions
+4 = Exit the program
+
+Put choice here:
+1
+
+Input your number:
+.87
+
+Would you like to find the cosine, arc cosine, or hyperbolic cosine?
+
+1 = Cosine
+2 = Arc Cosine
+3 = Hyperbolic Cosine
+
+Put choice here:
+1
+
+The cosine of 0.87 is 0.644827
+Would you like to choose another option? (y or n)
+y
+
+Which function do you want to apply to your number?
+
+1 = Cosine
+2 = Logarithms
+3 = Decimal and Hex Conversions
+4 = Exit the program
+
+Put choice here:
+1
+
+Input your number:
+.87
+
+Would you like to find the cosine, arc cosine, or hyperbolic cosine?
+
+1 = Cosine
+2 = Arc Cosine
+3 = Hyperbolic Cosine
+
+Put choice here:
+2
+
+The arc cosine of 0.87 is 0.515594
+Would you like to choose another option? (y or n)
+y
+
+Which function do you want to apply to your number?
+
+1 = Cosine
+2 = Logarithms
+3 = Decimal and Hex Conversions
+4 = Exit the program
+
+Put choice here:
+1
+
+Input your number:
+.87
+
+Would you like to find the cosine, arc cosine, or hyperbolic cosine?
+
+1 = Cosine
+2 = Arc Cosine
+3 = Hyperbolic Cosine
+
+Put choice here:
+3
+
+The hyperbolic cosine of 0.87 is 1.40293
+Would you like to choose another option? (y or n)
+y
+
+Which function do you want to apply to your number?
+
+1 = Cosine
+2 = Logarithms
+3 = Decimal and Hex Conversions
+4 = Exit the program
+
+Put choice here:
+2
+
+Input your number:
+33
+Would you like to find the common or natural logarithm?
+
+1 = Common Logarithm
+2 = Natural Logarithm
+
+Put choice here:
+1
+
+The common logarithm of 33 is 1.51851
+Would you like to choose another option? (y or n)
+y
+
+Which function do you want to apply to your number?
+
+1 = Cosine
+2 = Logarithms
+3 = Decimal and Hex Conversions
+4 = Exit the program
+
+Put choice here:
+2
+
+Input your number:
+33
+Would you like to find the common or natural logarithm?
+
+1 = Common Logarithm
+2 = Natural Logarithm
+
+Put choice here:
+2
+
+The natural logarithm of 33 is 3.49651
+Would you like to choose another option? (y or n)
+y
+
+Which function do you want to apply to your number?
+
+1 = Cosine
+2 = Logarithms
+3 = Decimal and Hex Conversions
+4 = Exit the program
+
+Put choice here:
+3
+
+Input your number:
+93
+Would you like to convert from decimal to hexidecimal or hexidecimal to decimal?
+
+1 = Decimal to Hexidecimal
+2 = Hexidecimal to Decimal
+
+Put choice here:
+1
+
+Would you like to use lowercase or uppercase letters in the answer?
+
+Lowercase = true
+Uppercase = false
+
+Put choice here:
+true
+
+93 converted to hexidecimal is 5d
+
+
+Would you like to choose another option? (y or n)
+y
+
+Which function do you want to apply to your number?
+
+1 = Cosine
+2 = Logarithms
+3 = Decimal and Hex Conversions
+4 = Exit the program
+
+Put choice here:
+3
+
+Input your number:
+93
+Would you like to convert from decimal to hexidecimal or hexidecimal to decimal?
+
+1 = Decimal to Hexidecimal
+2 = Hexidecimal to Decimal
+
+Put choice here:
+1
+
+Would you like to use lowercase or uppercase letters in the answer?
+
+Lowercase = true
+Uppercase = false
+
+Put choice here:
+false
+
+93 converted to hexidecimal is 5D
+
+
+Would you like to choose another option? (y or n)
+y
+
+Which function do you want to apply to your number?
+
+1 = Cosine
+2 = Logarithms
+3 = Decimal and Hex Conversions
+4 = Exit the program
+
+Put choice here:
+3
+
+Input your number:
+5d
+Would you like to convert from decimal to hexidecimal or hexidecimal to decimal?
+
+1 = Decimal to Hexidecimal
+2 = Hexidecimal to Decimal
+
+Put choice here:
+2
+
+5d converted to decimal is 93
+
+Would you like to choose another option? (y or n)
+y
+
+Which function do you want to apply to your number?
+
+1 = Cosine
+2 = Logarithms
+3 = Decimal and Hex Conversions
+4 = Exit the program
+
+Put choice here:
+4
+
+
+You have chosen to exit the program...
+
+C:\Users\td048\Documents\C++ Projects\FunctionsandStreams\x64\Debug\FunctionsandStreams.exe (process 13816) exited with code 0.
+Press any key to close this window . . .

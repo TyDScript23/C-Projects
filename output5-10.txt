@@ -1,0 +1,14 @@
+r1 has a greater area
+Not equal
+Sum of two rectangles is 20
+Difference of two rectangles is 4
+Rectangle 1
+Length is 7
+Width is 5
+Area is 35
+Perimeter is 24
+Rectangle 2
+Length is 5
+Width is 3
+Area is 15
+Perimeter is 16

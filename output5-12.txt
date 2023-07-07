@@ -1,0 +1,33 @@
+Pointer 1 Address:
+000000BBB5CFFBD8
+Rectangle 1 Address:
+000002A14D7F4890
+
+Length is 15.6
+Width is 7.6
+Area is 118.56
+Perimeter is 46.4
+
+
+Pointer 2 Address:
+000000BBB5CFFBE0
+Rectangle 2 Address:
+000002A14D7F48F0
+
+Length is 4.3
+Width is 5.67
+Area is 88.642
+Perimeter is 47.88
+Depth is 2
+
+
+Pointer 3 Address:
+000000BBB5CFFBE8
+Rectangle 3 Address:
+000002A14D7FA7A0
+
+Length is 2.56
+Width is 7.8
+Area is 19.968
+Perimeter is 20.72
+Color is purple
